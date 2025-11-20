@@ -10,3 +10,6 @@ You can view the design here: [Figma Project Link](https://www.figma.com/design/
 - Goal-based savings
 - Analytics screen
 - Add expense flow
+  
+ ## Screenshots
+ https://digital-crimson-msj4fojmpn.edgeone.app/
