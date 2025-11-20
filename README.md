@@ -13,3 +13,6 @@ You can view the design here: [Figma Project Link](https://www.figma.com/design/
   
  ## Screenshots
  https://digital-crimson-msj4fojmpn.edgeone.app/
+
+ <img width="971" height="365" alt="Screenshot 2025-11-20 at 8 08 53 AM" src="https://github.com/user-attachments/assets/b4acd28f-bd62-42f2-baa9-a5bbbb995dec" />
+
