@@ -1,4 +1,4 @@
-v# Personal Finance App – UI/UX Design
+Personal Finance App – UI/UX Design
 
 This is my Personal Finance App UI/UX design project.
 
